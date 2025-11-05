@@ -1,9 +1,9 @@
-## Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
+## Ex.4(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
 ## Aim :
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
 
-## 3.a) Installation and Configuration of Oracle VirtualBox
+## 4.a) Installation and Configuration of Oracle VirtualBox
 ## Aim:
 To install and configure Oracle VM VirtualBox.
 
@@ -34,7 +34,7 @@ Start Virtual Machine and provide ISO to install OS.
 Result:
 Thus, Oracle VM VirtualBox was installed successfully.
 
-## 3.b) Installation and Configuration of Kali Linux
+## 4.b) Installation and Configuration of Kali Linux
 ## Aim:
 To install and configure Kali Linux in Oracle VirtualBox.
 
@@ -89,7 +89,7 @@ Snapshot 2: Kali Running in Virtual
 ## Result:
 Thus, Kali Linux guest OS was installed and configured successfully.
 
-## 3.c) Execution of Linux Commands in Kali
+## 4.c) Execution of Linux Commands in Kali
 ## About Linux:
 Open-source operating system.
 Kernel manages communication between hardware and software.
